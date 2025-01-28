@@ -1,4 +1,3 @@
-from IPython.display import display, update_display
 import ollama
 
 MODEL_LLAMA = 'llama3.2:1b'

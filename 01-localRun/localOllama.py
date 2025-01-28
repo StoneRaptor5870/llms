@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from IPython.display import display
 import ollama
 
 MODEL = "llama3.2:1b"
